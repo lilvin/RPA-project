@@ -1,4 +1,4 @@
-# -RPA_IP
+# RPA Project
 
 Description
 Use UiPath control flows to create an automation where the robot counts the number of words that start with the letter 'a' in an array of names.
